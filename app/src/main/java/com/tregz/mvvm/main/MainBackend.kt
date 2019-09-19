@@ -2,6 +2,6 @@ package com.tregz.mvvm.main
 
 import androidx.lifecycle.ViewModel
 
-class MainViewModel : ViewModel() {
+class MainBackend : ViewModel() {
     // TODO: Implement the ViewModel
 }
